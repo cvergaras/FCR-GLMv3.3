@@ -1,0 +1,40 @@
+!-----------------------------------------------------------
+! plots_window defines the size of the window used for
+! display of the plots
+!-----------------------------------------------------------
+&plots_window
+  width = 1500
+  height = 900
+/
+
+!-----------------------------------------------------------
+! plots
+!  nplots - the number of plots
+!  title  - list of titles, one for each plot
+!  min_z  - list of minimum values for the z component
+!  max_z  - list of maximum values for the z component
+!
+! For the moment really only the min/max values are worth
+! tinkering with
+!-----------------------------------------------------------
+&plots
+  nplots = 7
+  plot_width = 400
+  plot_height = 200
+
+! These might not work in windows version if the fonts aren't installed
+! title_font = 'times:bold'
+! title_size = 12
+! label_font = 'helvetica'
+! label_size =  10
+
+!  title = 'Temperature (C)', 'DO (%)','Chla (ug/L)',  'NO3', 'NH4', 'TN',  'zoo'
+!  vars  =    'temp',     'OXY_sat','PHY_tchla',   'NIT_nit', 'NIT_amm','TOT_tn','PST_atrazine_d'
+!  min_z =     0.0,       0.0,      0.0,               0.0,  0.0,  0.0, 0.0,  0.0,  0.0
+!  max_z =    35.0,      100.0,     10.0,             5.0, 5.0, 50.0,  100.0,  1.0, 2000.
+
+  title = 'Temp (C)',  'SS (mg/L)' ,     'OXY', 'OXY_oxy_dsf', 'OXY_oxy_atm', 'SDG_oxy01',      'SDG_opd',      'OXY_oxy_atm',             'uptake'
+  vars  =    'temp' ,  'NCS_ss1', 'OXY_oxy',  'OXY_oxy_dsf','OXY_oxy_atm','SDG_oxy01','SDG_opd','OXY_oxy_atm'
+  min_z =     0.0,           0.0,      0.0,           -30.0,           -100.0,              0.0,              0.0,               -70.,              0.0
+  max_z =    35.0,           1.0,    300.0,             0.0,            100.0,              3.0,               1.0,                70,              1.0
+/
