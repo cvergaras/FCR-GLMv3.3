@@ -41,13 +41,14 @@
 !
 !-------------------------------------------------------------------------------
 &aed_models
-   models =  'aed_oxygen',
+   models =  
+             'aed_oxygen',
           !  'aed_sedflux',
           !  'aed_tracer',
              'aed_noncohesive'
           !  'aed_carbon',
           !  'aed_silica',
-          !  'aed_nitrogen',
+            'aed_nitrogen',
           !  'aed_phosphorus',
           !  'aed_organic_matter',
           !  'aed_phytoplankton',
@@ -96,22 +97,35 @@
 ! http://aquatic.science.uwa.edu.au/research/models/AED/aed_tracer.html
 !
 !-------------------------------------------------------------------------------
+!&aed_noncohesive
+!   !-- Select SS groups and their light attenuation
+!    num_ss       = 1        ! turn this to >0 if you have phs_frp_ads on
+!    ss_initial   = 1,1
+!    Ke_ss        = 0.06,0.063 !0.00000001!
+!   !-- Configure particle settling
+!    settling     = 1
+!    w_ss         = -0.001,-0.001!-0.03,-0.001
+!    d_ss         = 2e-6,1e-5
+!    rho_ss       = 1.5e3,1.8e3
+!   !-- Configure sediment resuspension
+!    resuspension = 0
+!   !-- Configure sediment mass
+!    simSedimentMass= .true.
+!    fs           = 0.4,0.4
+!    sed_porosity = 0.6
 &aed_noncohesive
-   !-- Select SS groups and their light attenuation
-    num_ss       = 1        ! turn this to >0 if you have phs_frp_ads on
-    ss_initial   = 1,1
-    Ke_ss        = 0.06,0.063 !0.00000001!
-   !-- Configure particle settling
-    settling     = 1
-    w_ss         = -0.001,-0.001!-0.03,-0.001
-    d_ss         = 2e-6,1e-5
-    rho_ss       = 1.5e3,1.8e3
-   !-- Configure sediment resuspension
-    resuspension = 0
-   !-- Configure sediment mass
-    simSedimentMass= .true.
-    fs           = 0.4,0.4
-    sed_porosity = 0.6
+   num_ss = 1
+   ss_initial = 1, 1
+   Ke_ss = 0.006, 0.063
+   settling = 1
+   w_ss = -0.001, -0.001
+   d_ss = 2e-06, 1e-05
+   rho_ss = 1500, 1800
+   resuspension = 0
+   simSedimentMass = .true.
+   fs = 0.4, 0.4
+   sed_porosity = 0.6
+/
 /
 
 !###############################################################################
@@ -196,55 +210,55 @@
 ! http://aquatic.science.uwa.edu.au/research/models/AED/aed_nutrient.html
 !
 !-------------------------------------------------------------------------------
-!&aed_nitrogen
-!  !-- Initial values
-!   amm_initial = 2.6
-!   nit_initial = 0.1
-!   n2o_initial = 0.1
-!  !-- Nitrification
-!   Rnitrif =  0.01358676
-!   Knitrif = 62.02209
-!   theta_nitrif = 1.08
-!   nitrif_reactant_variable = 'OXY_oxy'
-!   nitrif_ph_variable = ''
-!   simNitrfpH = .false.
-!   Rnh4o2 = 1.0
-!   Rno2o2 = 1.0
-!  !-- N2O reactions
-!   simN2O = 0
-!   Rn2o = 0.05
-!   Kpart_ammox = 1.0
-!   Kin_deamm = 1.0
-!   atm_n2o = 3.2e-07
-!   n2o_piston_model = 4
-!  !-- Annamox
-!   Rnh4no2 = 0.001
-!   kanammox = 0.001
-!   Kanmx_nit = 1.320344
-!   Kanmx_amm = 0.8666655
-!  !-- De-nitrification
-!   Rdenit = 9.968717
-!   Kdenit = 29.86566
-!   theta_denit = 1.062862
-!   Rdnra = 0.01123021
-!   Kdnra_oxy = 0.360534
-!  !-- Atmospheric deposition
-!   !simDryDeposition = .true.
-!   !atm_din_dd = 0.5
-!   !simWetDeposition = .true.
-!   !atm_din_conc = 0.5
-!  !-- Sediment fluxes
-!   Ksed_amm = 30!41.25
-!   Ksed_nit = 73.26015
-!   Fsed_n2o = 0
-!   Ksed_n2o = 100
-!   theta_sed_amm = 1.08!1.068994
-!   theta_sed_nit = 1.068994
-!   Fsed_amm         =   1.0
-!   Fsed_nit         =  -0.05
-!   Fsed_amm_variable = 'SDF_Fsed_amm'
-!   Fsed_nit_variable = 'SDF_Fsed_nit'
-!/
+&aed_nitrogen
+  !-- Initial values
+   amm_initial = 2.6
+   nit_initial = 0.1
+   n2o_initial = 0.1
+  !-- Nitrification
+   Rnitrif =  0.01358676
+   Knitrif = 62.02209
+   theta_nitrif = 1.08
+   nitrif_reactant_variable = 'OXY_oxy'
+   nitrif_ph_variable = ''
+   simNitrfpH = .false.
+   Rnh4o2 = 1.0
+   Rno2o2 = 1.0
+  !-- N2O reactions
+   simN2O = 0
+   Rn2o = 0.05
+   Kpart_ammox = 1.0
+   Kin_deamm = 1.0
+   atm_n2o = 3.2e-07
+   n2o_piston_model = 4
+  !-- Annamox
+   Rnh4no2 = 0.001
+   kanammox = 0.001
+   Kanmx_nit = 1.320344
+   Kanmx_amm = 0.8666655
+  !-- De-nitrification
+   Rdenit = 9.968717
+   Kdenit = 29.86566
+   theta_denit = 1.062862
+   Rdnra = 0.01123021
+   Kdnra_oxy = 0.360534
+  !-- Atmospheric deposition
+   !simDryDeposition = .true.
+   !atm_din_dd = 0.5
+   !simWetDeposition = .true.
+   !atm_din_conc = 0.5
+  !-- Sediment fluxes
+   Ksed_amm = 30!41.25
+   Ksed_nit = 73.26015
+   Fsed_n2o = 0
+   Ksed_n2o = 100
+   theta_sed_amm = 1.08!1.068994
+   theta_sed_nit = 1.068994
+   Fsed_amm         =   1.0
+   Fsed_nit         =  -0.05
+   Fsed_amm_variable = 'SDF_Fsed_amm'
+   Fsed_nit_variable = 'SDF_Fsed_nit'
+/
 
 !###############################################################################
 ! PHS: aed_phosphorus - AED phosphorus model
