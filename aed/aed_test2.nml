@@ -320,3 +320,6 @@
 !   fixed_food = 20
 !   diag_level = 10
 !/
+&aed_phreeqcrm
+&aed_noncohesive
+/

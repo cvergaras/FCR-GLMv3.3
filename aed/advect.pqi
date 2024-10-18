@@ -15,6 +15,8 @@ SOLUTION 1-40  Initial solution for column
         K                0.2
         N(5)             1.2
 END
+EQUILIBRIUM_PHASES 1-40
+        Pyrite 0 1.5
 EXCHANGE 1-40
         -equilibrate 1
         X                0.0011
