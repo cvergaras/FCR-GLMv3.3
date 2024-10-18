@@ -321,5 +321,8 @@
 !   diag_level = 10
 !/
 &aed_phreeqcrm
-&aed_noncohesive
+   yaml_file = 'simple_yaml.yaml'
+   dbase = 'pht3d_datab.dat'
+   nthreads = 3
+   phreeqc_init_file = 'pyrite.pqi'
 /

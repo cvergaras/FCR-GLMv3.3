@@ -10,7 +10,4 @@ SOLUTION 1 Pure water
         Cl               1.2 charge     
 EQUILIBRIUM_PHASES 1
         Pyrite          0.0     1.0
-SELECTED_OUTPUT
-        -file   ex2.sel
-        -si     anhydrite  gypsum
 END

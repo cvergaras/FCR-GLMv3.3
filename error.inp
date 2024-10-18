@@ -1,0 +1,58 @@
+SOLUTION_RAW                 0 
+  -temp                      0
+  -pressure                  1
+  -potential                 0
+  -total_h                   0
+  -total_o                   0
+  -cb                        0
+  -density                   1
+  -viscosity                 1
+  -totals
+  -pH                        0
+  -pe                        0
+  -mu                        0
+  -ah2o                      0
+  -mass_water                0
+  -soln_vol                  0
+  -total_alkalinity          0
+  -activities
+  -gammas
+EXCHANGE_RAW                 0 
+  # EXCHANGE_MODIFY candidate identifiers #
+  -exchange_gammas           1
+  -component                 X
+    # EXCHANGE_MODIFY candidate identifiers #
+    -totals
+      K                      0
+      Na                     0
+      X                      0
+    -charge_balance          0
+    -la                      2.6984547222123
+    -phase_proportion        0
+    -formula_z               0
+  # EXCHANGE_MODIFY candidates with new_def=true #
+  -new_def                   0
+  -solution_equilibria       0
+  -n_solution                -999
+  # Exchange workspace variables #
+  -totals
+EQUILIBRIUM_PHASES_RAW       0 
+  # EXCHANGE_MODIFY candidates; use new_def=true #
+  -new_def                   0
+  -component                 Pyrite
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 6.0276008792632e-322
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -eltList                   # List of all elements in phases and alternate reactions
+    Fe_di                    4.0019317313141e-322
+    S                        8.0038634626282e-322
+  # PPassemblage workspace variables #
+  -assemblage_totals
