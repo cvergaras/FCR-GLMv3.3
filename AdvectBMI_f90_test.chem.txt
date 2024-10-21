@@ -1,0 +1,541 @@
+------------------------------------
+Reading input data for simulation 1.
+------------------------------------
+
+	KNOBS
+	step_size 10
+	pe_step_size   2
+	SOLUTION 0  CaCl2
+	        units            mmol/kgw
+	        temp             25.0
+	        pH               7.0     charge
+	        pe               12.5    O2(g)   -0.68
+	        Ca               0.6
+	        Cl               1.2
+	SOLUTION 1  Initial solution for column
+	        units            mmol/kgw
+	        temp             25.0
+	        pH               7.0     charge
+	        pe               12.5    O2(g)   -0.68
+	        Na               1.0
+	        K                0.2
+	        N(5)             1.2
+	END
+-------------------------------------------
+Beginning of initial solution calculations.
+-------------------------------------------
+
+Initial solution 0.	CaCl2
+
+-----------------------------Solution composition------------------------------
+
+	Elements           Molality       Moles
+
+	Ca                6.000e-04   6.000e-04
+	Cl                1.200e-03   1.200e-03
+
+----------------------------Description of solution----------------------------
+
+                                       pH  =   6.995      Charge balance
+                                       pe  =  13.632      Equilibrium with O2(g)
+      Specific Conductance (µS/cm,  25°C)  = 155
+                          Density (g/cm³)  =   0.99710
+                               Volume (L)  =   1.00298
+                        Viscosity (mPa s)  =   0.89067
+                        Activity of water  =   1.000
+                 Ionic strength (mol/kgw)  =   1.800e-03
+                       Mass of water (kg)  =   1.000e+00
+                 Total alkalinity (eq/kg)  =  -1.854e-20
+                         Temperature (°C)  =  25.00
+                  Electrical balance (eq)  =   2.979e-18
+ Percent error, 100*(Cat-|An|)/(Cat+|An|)  =   0.00
+                               Iterations  =   4
+                                  Total H  = 1.110124e+02
+                                  Total O  = 5.550675e+01
+
+----------------------------Distribution of species----------------------------
+
+                                               Log       Log       Log    mole V
+   Species          Molality    Activity  Molality  Activity     Gamma   cm³/mol
+
+   H+              1.057e-07   1.012e-07    -6.976    -6.995    -0.019      0.00
+   OH-             1.049e-07   1.001e-07    -6.979    -7.000    -0.021     -4.10
+   H2O             5.551e+01   1.000e+00     1.744    -0.000     0.000     18.07
+Ca            6.000e-04
+   Ca+2            6.000e-04   4.983e-04    -3.222    -3.302    -0.081    -18.10
+   CaOH+           8.570e-10   8.175e-10    -9.067    -9.087    -0.020     (0)  
+Cl            1.200e-03
+   Cl-             1.200e-03   1.144e-03    -2.921    -2.941    -0.021     18.08
+   HCl             3.981e-11   3.988e-11   -10.400   -10.399     0.001     (0)  
+H(0)          0.000e+00
+   H2              0.000e+00   0.000e+00   -44.404   -44.404     0.000     28.61
+O(0)          5.351e-04
+   O2              2.675e-04   2.676e-04    -3.573    -3.572     0.000     30.40
+
+------------------------------Saturation indices-------------------------------
+
+  Phase               SI** log IAP   log K(298 K,   1 atm)
+
+  H2(g)           -41.30    -44.40   -3.10  H2
+  H2O(g)           -1.50     -0.00    1.50  H2O
+  O2(g)            -0.68     -3.57   -2.89  O2	 Pressure   0.2 atm, phi 1.000
+
+**For a gas, SI = log10(fugacity). Fugacity = pressure * phi / 1 atm.
+  For ideal gases, phi = 1.
+
+Initial solution 1.	Initial solution for column
+
+-----------------------------Solution composition------------------------------
+
+	Elements           Molality       Moles
+
+	K                 2.000e-04   2.000e-04
+	N(5)              1.200e-03   1.200e-03
+	Na                1.000e-03   1.000e-03
+
+----------------------------Description of solution----------------------------
+
+                                       pH  =   6.997      Charge balance
+                                       pe  =  13.630      Equilibrium with O2(g)
+      Specific Conductance (µS/cm,  25°C)  = 145
+                          Density (g/cm³)  =   0.99711
+                               Volume (L)  =   1.00301
+                        Viscosity (mPa s)  =   0.89020
+                        Activity of water  =   1.000
+                 Ionic strength (mol/kgw)  =   1.200e-03
+                       Mass of water (kg)  =   1.000e+00
+                 Total alkalinity (eq/kg)  =  -1.017e-18
+                         Temperature (°C)  =  25.00
+                  Electrical balance (eq)  =  -9.088e-17
+ Percent error, 100*(Cat-|An|)/(Cat+|An|)  =  -0.00
+                               Iterations  =   3 (7 overall)
+                                  Total H  = 1.110124e+02
+                                  Total O  = 5.551035e+01
+
+----------------------------Distribution of species----------------------------
+
+                                               Log       Log       Log    mole V
+   Species          Molality    Activity  Molality  Activity     Gamma   cm³/mol
+
+   H+              1.045e-07   1.007e-07    -6.981    -6.997    -0.016      0.00
+   OH-             1.045e-07   1.005e-07    -6.981    -6.998    -0.017     -4.10
+   H2O             5.551e+01   1.000e+00     1.744    -0.000     0.000     18.07
+H(0)          0.000e+00
+   H2              0.000e+00   0.000e+00   -44.404   -44.404     0.000     28.61
+K             2.000e-04
+   K+              2.000e-04   1.923e-04    -3.699    -3.716    -0.017      9.01
+N(5)          1.200e-03
+   NO3-            1.200e-03   1.154e-03    -2.921    -2.938    -0.017     29.49
+Na            1.000e-03
+   Na+             1.000e-03   9.621e-04    -3.000    -3.017    -0.017     -1.47
+   NaOH            9.666e-21   9.668e-21   -20.015   -20.015     0.000     (0)  
+O(0)          5.351e-04
+   O2              2.676e-04   2.676e-04    -3.573    -3.572     0.000     30.40
+
+------------------------------Saturation indices-------------------------------
+
+  Phase               SI** log IAP   log K(298 K,   1 atm)
+
+  H2(g)           -41.30    -44.40   -3.10  H2
+  H2O(g)           -1.50     -0.00    1.50  H2O
+  O2(g)            -0.68     -3.57   -2.89  O2	 Pressure   0.2 atm, phi 1.000
+
+**For a gas, SI = log10(fugacity). Fugacity = pressure * phi / 1 atm.
+  For ideal gases, phi = 1.
+
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 2.
+------------------------------------
+
+	EXCHANGE 1
+	NaX 1
+	END
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 3.
+------------------------------------
+
+	EQUILIBRIUM_PHASES 1
+	Calcite 0 1
+	Dolomite 0 1
+	Goethite 0 0.5
+	END
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 4.
+------------------------------------
+
+	SURFACE 1
+	    Hfo_wOH Goethite        equilibrium_phase 0.1    600
+	    Hfo_sOH Goethite        equilibrium_phase 0.01
+	END
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 5.
+------------------------------------
+
+	SOLID_SOLUTIONS 1
+	    Sulfate
+	        component Anhydrite 0.2
+	        component Barite 0.001
+	GAS_PHASE 1
+	fixed_volume
+	CO2(g) 0.3
+	Ntg(g) 0.7
+	END
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 6.
+------------------------------------
+
+	CALCULATE_VALUES
+	SAR
+	10 if [TOT("Ca") + TOT("Mg")] > 0 THEN SAR = TOT("Na") / SQRT(0.5*[TOT("Ca") + TOT("Mg")])       ELSE SAR = 1e4
+	20 SAVE SAR
+	USER_PRINT
+	10 PRINT "SAR: ", CALC_VALUE("SAR")
+	END
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 7.
+------------------------------------
+
+	RUN_CELLS
+	-cells 1
+	-time 0
+	END
+--------------------------
+Beginning of run as cells.
+--------------------------
+
+-----------------------------------------
+Beginning of batch-reaction calculations.
+-----------------------------------------
+
+Reaction step 1.
+
+Using solution 1.	Initial solution for column
+Using exchange 1.	
+Using surface 1.	
+Using pure phase assemblage 1.	
+Using solid solution assemblage 1.	
+Using gas phase 1.	
+
+----------------------------------User print-----------------------------------
+
+SAR:    3.3029e+00 
+
+-----------------------------------Gas phase-----------------------------------
+
+Total pressure:  0.69      atmospheres          (Peng-Robinson calculation)
+    Gas volume:   1.00e+00 liters
+  Molar volume:   3.53e+01 liters/mole
+   P * Vm / RT:  0.99968  (Compressibility Factor Z) 
+
+                                                        Moles in gas
+                                            ----------------------------------
+Component         log P           P    phi     Initial       Final       Delta
+
+CO2(g)            -2.60   2.490e-03  0.997   1.228e-02   1.018e-04  -1.218e-02
+Ntg(g)            -0.16   6.905e-01  1.000   2.866e-02   2.823e-02  -4.226e-04
+
+-------------------------------Phase assemblage--------------------------------
+
+                                                      Moles in assemblage
+Phase               SI  log IAP  log K(T, P)   Initial       Final       Delta
+
+Calcite           0.00    -8.48     -8.48    1.000e+00   1.132e+00   1.319e-01
+Dolomite          0.00   -17.08    -17.08    1.000e+00   9.310e-01  -6.896e-02
+Goethite          0.00    -1.00     -1.00    5.000e-01   5.000e-01  -3.524e-14
+
+--------------------------------Solid solutions--------------------------------
+
+
+Solid solution                Component        Moles  Delta moles   Mole fract
+
+Sulfate                                     2.56e-03
+                              Anhydrite     1.56e-03    -1.98e-01     6.09e-01
+                                 Barite     1.00e-03    -3.81e-07     3.91e-01
+
+------------------------------Surface composition------------------------------
+
+Diffuse Double Layer Surface-Complexation Model
+
+Hfo           
+	  7.560e-05  Surface charge, eq
+	  2.432e-02  sigma, C/m²
+	  1.709e-02  psi, V
+	 -6.652e-01  -F*psi/RT
+	  5.142e-01  exp(-F*psi/RT)
+	  6.000e+02  specific area, m²/mol Goethite
+	  3.000e+02  m² for   5.000e-01 moles of Goethite
+
+
+Hfo_s         
+	  5.000e-03  moles	[0.01 mol/(mol Goethite)]
+	                                   Mole                     Log
+	Species               Moles    Fraction    Molality    Molality
+
+	Hfo_sOHCa+2       4.827e-03       0.965   4.827e-03      -2.316
+	Hfo_sOH           1.264e-04       0.025   1.264e-04      -3.898
+	Hfo_sOH2+         3.623e-05       0.007   3.623e-05      -4.441
+	Hfo_sO-           1.010e-05       0.002   1.010e-05      -4.996
+	Hfo_sOHBa+2       2.602e-08       0.000   2.602e-08      -7.585
+	Hfo_sOFe+         5.105e-22       0.000   5.105e-22     -21.292
+
+Hfo_w         
+	  5.000e-02  moles	[0.1 mol/(mol Goethite)]
+	                                   Mole                     Log
+	Species               Moles    Fraction    Molality    Molality
+
+	Hfo_wOH           1.368e-02       0.274   1.368e-02      -1.864
+	Hfo_wHCO3         1.005e-02       0.201   1.005e-02      -1.998
+	Hfo_wOMg+         7.186e-03       0.144   7.185e-03      -2.144
+	Hfo_wOHSO4-2      6.622e-03       0.132   6.621e-03      -2.179
+	Hfo_wCO3-         5.954e-03       0.119   5.954e-03      -2.225
+	Hfo_wOH2+         3.921e-03       0.078   3.920e-03      -2.407
+	Hfo_wO-           1.093e-03       0.022   1.093e-03      -2.961
+	Hfo_wSO4-         9.588e-04       0.019   9.587e-04      -3.018
+	Hfo_wOCa+         5.377e-04       0.011   5.377e-04      -3.269
+	Hfo_wOBa+         4.190e-11       0.000   4.190e-11     -10.378
+	Hfo_wOFe+         5.155e-22       0.000   5.155e-22     -21.288
+	Hfo_wOFeOH        9.364e-23       0.000   9.364e-23     -22.029
+
+-----------------------------Exchange composition------------------------------
+
+X                1.000e+00 mol
+
+	                               Equiv-    Equivalent      Log 
+	Species             Moles      alents      Fraction     Gamma
+
+	NaX               6.590e-01   6.590e-01   6.590e-01    -0.141
+	CaX2              1.192e-01   2.384e-01   2.384e-01    -0.561
+	MgX2              5.121e-02   1.024e-01   1.024e-01    -0.518
+	KX                1.824e-04   1.824e-04   1.824e-04    -0.178
+	BaX2              3.175e-07   6.351e-07   6.351e-07    -0.635
+	FeX2              6.808e-23   1.362e-22   1.362e-22    -0.566
+	NH4X              1.005e-63   1.005e-63   1.005e-63    -0.208
+
+-----------------------------Solution composition------------------------------
+
+	Elements           Molality       Moles
+
+	Ba                3.746e-08   3.747e-08
+	C                 2.150e-03   2.150e-03
+	Ca                1.089e-02   1.089e-02
+	Fe                3.492e-14   3.493e-14
+	K                 1.759e-05   1.759e-05
+	Mg                1.055e-02   1.055e-02
+	N                 1.200e-03   1.200e-03
+	Na                3.420e-01   3.420e-01
+	Ntg               4.226e-04   4.226e-04
+	S                 1.908e-01   1.909e-01
+
+----------------------------Description of solution----------------------------
+
+                                       pH  =   7.544      Charge balance
+                                       pe  =  13.094      Adjusted to redox equilibrium
+      Specific Conductance (µS/cm,  25°C)  = 26884
+                          Density (g/cm³)  =   1.02096
+                               Volume (L)  =   1.00611
+                        Viscosity (mPa s)  =   0.96972
+                        Activity of water  =   0.992
+                 Ionic strength (mol/kgw)  =   3.743e-01
+                       Mass of water (kg)  =   1.000e+00
+                 Total alkalinity (eq/kg)  =   2.086e-03
+                       Total CO2 (mol/kg)  =   2.150e-03
+                         Temperature (°C)  =  25.00
+                           Pressure (atm)  =  0.69
+                  Electrical balance (eq)  =  -7.560e-05
+ Percent error, 100*(Cat-|An|)/(Cat+|An|)  =  -0.01
+                               Iterations  =  31
+                                  Total H  = 1.110242e+02
+                                  Total O  = 5.628504e+01
+
+----------------------------Distribution of species----------------------------
+
+                                               Log       Log       Log    mole V
+   Species          Molality    Activity  Molality  Activity     Gamma   cm³/mol
+
+   OH-             5.355e-07   3.512e-07    -6.271    -6.454    -0.183     -3.15
+   H+              3.693e-08   2.859e-08    -7.433    -7.544    -0.111      0.00
+   H2O             5.551e+01   9.922e-01     1.744    -0.003     0.000     18.07
+Ba            3.746e-08
+   BaSO4           2.577e-08   2.809e-08    -7.589    -7.551     0.037     (0)  
+   Ba+2            1.164e-08   2.700e-09    -7.934    -8.569    -0.635    -11.40
+   BaHCO3+         4.621e-11   3.376e-11   -10.335   -10.472    -0.136     (0)  
+   BaCO3           2.738e-12   2.984e-12   -11.563   -11.525     0.037    -10.70
+   BaOH+           4.543e-15   3.175e-15   -14.343   -14.498    -0.156     (0)  
+C(-4)         0.000e+00
+   CH4             0.000e+00   0.000e+00  -144.817  -144.779     0.037     35.45
+C(4)          2.150e-03
+   HCO3-           1.841e-03   1.304e-03    -2.735    -2.885    -0.150     25.47
+   NaHCO3          1.759e-04   2.090e-04    -3.755    -3.680     0.075     31.73
+   CO2             7.984e-05   8.452e-05    -4.098    -4.073     0.025     34.43
+   MgHCO3+         2.644e-05   1.775e-05    -4.578    -4.751    -0.173      5.77
+   CaHCO3+         1.079e-05   7.789e-06    -4.967    -5.109    -0.141    122.88
+   CO3-2           8.489e-06   2.139e-06    -5.071    -5.670    -0.599     -1.49
+   CaCO3           5.104e-06   5.563e-06    -5.292    -5.255     0.037    -14.60
+   MgCO3           2.179e-06   2.375e-06    -5.662    -5.624     0.037    -17.09
+   KHCO3           5.395e-09   5.439e-09    -8.268    -8.265     0.004     41.03
+   (CO2)2          1.203e-10   1.311e-10    -9.920    -9.882     0.037     68.87
+   BaHCO3+         4.621e-11   3.376e-11   -10.335   -10.472    -0.136     (0)  
+   BaCO3           2.738e-12   2.984e-12   -11.563   -11.525     0.037    -10.70
+   FeHCO3+         3.574e-25   2.611e-25   -24.447   -24.583    -0.136     (0)  
+   FeCO3           9.425e-26   1.027e-25   -25.026   -24.988     0.037     (0)  
+Ca            1.089e-02
+   Ca+2            5.631e-03   1.548e-03    -2.249    -2.810    -0.561    -16.97
+   CaSO4           5.242e-03   5.714e-03    -2.280    -2.243     0.037      7.50
+   CaHCO3+         1.079e-05   7.789e-06    -4.967    -5.109    -0.141    122.88
+   CaCO3           5.104e-06   5.563e-06    -5.292    -5.255     0.037    -14.60
+   CaOH+           1.220e-08   8.915e-09    -7.914    -8.050    -0.136     (0)  
+   CaHSO4+         1.470e-09   1.074e-09    -8.833    -8.969    -0.136     (0)  
+Fe(2)         1.463e-23
+   Fe+2            7.367e-24   2.002e-24   -23.133   -23.699    -0.566    -21.01
+   FeSO4           6.779e-24   7.389e-24   -23.169   -23.131     0.037     18.97
+   FeHCO3+         3.574e-25   2.611e-25   -24.447   -24.583    -0.136     (0)  
+   FeCO3           9.425e-26   1.027e-25   -25.026   -24.988     0.037     (0)  
+   FeOH+           3.144e-26   2.197e-26   -25.503   -25.658    -0.156     (0)  
+   Fe(OH)2         5.952e-30   6.488e-30   -29.225   -29.188     0.037     (0)  
+   FeHSO4+         1.901e-30   1.389e-30   -29.721   -29.857    -0.136     (0)  
+   Fe(OH)3-        1.197e-32   8.364e-33   -31.922   -32.078    -0.156     (0)  
+   Fe(HS)2         0.000e+00   0.000e+00  -296.118  -296.081     0.037     (0)  
+   Fe(HS)3-        0.000e+00   0.000e+00  -434.574  -434.710    -0.136     (0)  
+Fe(3)         3.492e-14
+   Fe(OH)3         2.507e-14   2.733e-14   -13.601   -13.563     0.037     (0)  
+   Fe(OH)2+        8.628e-15   6.113e-15   -14.064   -14.214    -0.150     (0)  
+   Fe(OH)4-        1.221e-15   8.648e-16   -14.913   -15.063    -0.150     (0)  
+   FeOH+2          2.231e-18   5.321e-19   -17.651   -18.274    -0.623     (0)  
+   FeSO4+          7.735e-22   5.405e-22   -21.112   -21.267    -0.156     (0)  
+   Fe(SO4)2-       3.360e-22   2.454e-22   -21.474   -21.610    -0.136     (0)  
+   Fe+3            2.374e-23   2.375e-24   -22.624   -23.624    -1.000     (0)  
+   FeHSO4+2        1.453e-28   4.139e-29   -27.838   -28.383    -0.545     (0)  
+   Fe2(OH)2+4      1.156e-33   7.619e-36   -32.937   -35.118    -2.181     (0)  
+   Fe3(OH)4+5      0.000e+00   0.000e+00   -43.604   -47.012    -3.408     (0)  
+H(0)          0.000e+00
+   H2              0.000e+00   0.000e+00   -44.463   -44.426     0.037     28.61
+K             1.759e-05
+   K+              1.405e-05   9.335e-06    -4.852    -5.030    -0.178      9.48
+   KSO4-           3.532e-06   2.948e-06    -5.452    -5.530    -0.079     13.37
+   KHCO3           5.395e-09   5.439e-09    -8.268    -8.265     0.004     41.03
+Mg            1.055e-02
+   MgSO4           5.321e-03   6.322e-03    -2.274    -2.199     0.075     -7.93
+   Mg+2            3.834e-03   1.163e-03    -2.416    -2.934    -0.518    -20.69
+   Mg(SO4)2-2      1.370e-03   4.322e-04    -2.863    -3.364    -0.501     28.66
+   MgHCO3+         2.644e-05   1.775e-05    -4.578    -4.751    -0.173      5.77
+   MgCO3           2.179e-06   2.375e-06    -5.662    -5.624     0.037    -17.09
+   MgOH+           2.001e-07   1.466e-07    -6.699    -6.834    -0.135     (0)  
+N(-3)         0.000e+00
+   NH4+            0.000e+00   0.000e+00   -64.011   -64.219    -0.208     18.36
+   NH4SO4-         0.000e+00   0.000e+00   -64.631   -64.796    -0.165     13.86
+   NH3             0.000e+00   0.000e+00   -65.957   -65.920     0.037     24.42
+N(0)          4.639e-21
+   N2              2.319e-21   2.528e-21   -20.635   -20.597     0.037     29.29
+N(3)          2.381e-16
+   NO2-            2.381e-16   1.521e-16   -15.623   -15.818    -0.195     25.51
+N(5)          1.200e-03
+   NO3-            1.200e-03   7.664e-04    -2.921    -3.116    -0.195     30.07
+Na            3.420e-01
+   Na+             2.544e-01   1.840e-01    -0.595    -0.735    -0.141     -0.74
+   NaSO4-          8.744e-02   6.216e-02    -1.058    -1.206    -0.148      3.48
+   NaHCO3          1.759e-04   2.090e-04    -3.755    -3.680     0.075     31.73
+   NaOH            5.927e-18   6.461e-18   -17.227   -17.190     0.037     (0)  
+Ntg           4.226e-04
+   Ntg             4.226e-04   4.606e-04    -3.374    -3.337     0.037     29.29
+O(0)          5.351e-04
+   O2              2.675e-04   2.916e-04    -3.573    -3.535     0.037     30.40
+S(-2)         0.000e+00
+   HS-             0.000e+00   0.000e+00  -140.483  -140.666    -0.183     21.15
+   H2S             0.000e+00   0.000e+00  -141.306  -141.268     0.037     36.28
+   S-2             0.000e+00   0.000e+00  -145.418  -146.041    -0.623     (0)  
+   (H2S)2          0.000e+00   0.000e+00  -283.852  -283.815     0.037     30.08
+   Fe(HS)2         0.000e+00   0.000e+00  -296.118  -296.081     0.037     (0)  
+   Fe(HS)3-        0.000e+00   0.000e+00  -434.574  -434.710    -0.136     (0)  
+S(6)          1.908e-01
+   SO4-2           9.010e-02   2.076e-02    -1.045    -1.683    -0.638     32.79
+   NaSO4-          8.744e-02   6.216e-02    -1.058    -1.206    -0.148      3.48
+   MgSO4           5.321e-03   6.322e-03    -2.274    -2.199     0.075     -7.93
+   CaSO4           5.242e-03   5.714e-03    -2.280    -2.243     0.037      7.50
+   Mg(SO4)2-2      1.370e-03   4.322e-04    -2.863    -3.364    -0.501     28.66
+   KSO4-           3.532e-06   2.948e-06    -5.452    -5.530    -0.079     13.37
+   HSO4-           7.899e-08   5.771e-08    -7.102    -7.239    -0.136     40.79
+   BaSO4           2.577e-08   2.809e-08    -7.589    -7.551     0.037     (0)  
+   CaHSO4+         1.470e-09   1.074e-09    -8.833    -8.969    -0.136     (0)  
+   FeSO4+          7.735e-22   5.405e-22   -21.112   -21.267    -0.156     (0)  
+   Fe(SO4)2-       3.360e-22   2.454e-22   -21.474   -21.610    -0.136     (0)  
+   FeSO4           6.779e-24   7.389e-24   -23.169   -23.131     0.037     18.97
+   FeHSO4+2        1.453e-28   4.139e-29   -27.838   -28.383    -0.545     (0)  
+   FeHSO4+         1.901e-30   1.389e-30   -29.721   -29.857    -0.136     (0)  
+   NH4SO4-         0.000e+00   0.000e+00   -64.631   -64.796    -0.165     13.86
+
+------------------------------Saturation indices-------------------------------
+
+  Phase               SI** log IAP   log K(298 K,   1 atm)
+
+  Anhydrite        -0.22     -4.49   -4.28  CaSO4
+  Aragonite        -0.14     -8.48   -8.34  CaCO3
+  Arcanite         -9.86    -11.74   -1.88  K2SO4
+  Barite           -0.41    -10.25   -9.84  BaSO4
+  Calcite           0.00     -8.48   -8.48  CaCO3
+  CH4(g)         -141.98   -144.78   -2.80  CH4
+  CO2(g)           -2.60     -4.07   -1.47  CO2	 Pressure   0.0 atm, phi 0.997
+  Dolomite          0.00    -17.08  -17.08  CaMg(CO3)2
+  Epsomite         -2.90     -4.64   -1.74  MgSO4:7H2O
+  Fe(OH)3(a)       -5.89     -1.00    4.89  Fe(OH)3
+  FeS(ppt)       -152.91   -156.82   -3.92  FeS
+  Goethite          0.00     -1.00   -1.00  FeOOH
+  Gypsum            0.08     -4.50   -4.58  CaSO4:2H2O
+  H2(g)           -41.32    -44.43   -3.10  H2
+  H2O(g)           -1.51     -0.00    1.50  H2O
+  H2S(g)         -140.27   -148.21   -7.94  H2S
+  Hematite          2.01     -2.00   -4.01  Fe2O3
+  Hexahydrite      -3.07     -4.64   -1.57  MgSO4:6H2O
+  Jarosite-K      -24.82    -34.03   -9.21  KFe3(SO4)2(OH)6
+  Kieserite        -3.46     -4.62   -1.16  MgSO4:H2O
+  Mackinawite    -152.17   -156.82   -4.65  FeS
+  Melanterite     -23.20    -25.41   -2.21  FeSO4:7H2O
+  Mirabilite       -1.95     -3.19   -1.24  Na2SO4:10H2O
+  N2(g)           -17.42    -20.60   -3.18  N2
+  NH3(g)          -67.72    -65.92    1.80  NH3
+  Ntg(g)           -0.16     -3.34   -3.18  Ntg	 Pressure   0.7 atm, phi 1.000
+  O2(g)            -0.64     -3.54   -2.89  O2
+  Pyrite         -245.28   -263.76  -18.48  FeS2
+  Siderite        -18.48    -29.37  -10.89  FeCO3
+  Sulfur         -104.87    -99.99    4.88  S
+  Thenardite       -2.85     -3.15   -0.30  Na2SO4
+  Witherite        -5.68    -14.24   -8.56  BaCO3
+
+**For a gas, SI = log10(fugacity). Fugacity = pressure * phi / 1 atm.
+  For ideal gases, phi = 1.
+
+------------------
+End of simulation.
+------------------
+
+------------------------------------
+Reading input data for simulation 8.
+------------------------------------
+
+----------------------------------
+End of Run after 0.045735 Seconds.
+----------------------------------
+
