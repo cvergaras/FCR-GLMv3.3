@@ -1,7 +1,7 @@
 - key: SetGridCellCount
   count: 1
 - key: ThreadCount
-  nthreads: 4
+  nthreads: 1
 - key: SetErrorHandlerMode
   mode: 1
 - key: SetComponentH2O
@@ -15,7 +15,7 @@
 - key: SetPartitionUZSolids
   tf: false
 - key: SetFilePrefix
-  prefix: AdvectBMI_f90_test
+  prefix: AdvectBMI_f90_testxxx
 - key: OpenFiles
 - key: SetUnitsSolution
   option: 2
@@ -110,19 +110,19 @@
     - 1
 - key: InitialExchanges2Module
   exchanges:
-    - 1
+    - -1
 - key: InitialGasPhases2Module
   gas_phases:
-    - 1
+    - -1
 - key: InitialKinetics2Module
   kinetics:
-    - -1 # 1=yes, -1=no
+    - -1
 - key: InitialSolidSolutions2Module
   solid_solutions:
-    - 1
+    - -1
 - key: InitialSurfaces2Module
   surfaces:
-    - 1
+    - -1
 - key: SetTimeStep
   time_step: 0
 - key: SetTime
@@ -130,3 +130,5 @@
 - key: RunCells
 - key: SetTimeStep
   time_step: 86400
+- key: SetSelectedOutputOn
+  tf: true

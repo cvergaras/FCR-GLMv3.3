@@ -321,9 +321,10 @@
 !   diag_level = 10
 !/
 &aed_phreeqcrm
-   create_yaml = .false.
-   yaml_file = 'AdvectBMI_f90_test_newxxx.yaml' ! read or create based on create_yaml
-   dbase = 'phreeqc.dat'
-   nthreads = 3
-   phreeqc_init_file = 'all_reactants.pqi'
+   create_init_yaml = .false.
+   yaml_init = .true. ! initialize from a YAML file
+   yaml_file = 'init2.yaml'
+   dbase = 'pht3d_datab.dat' !if not read by yaml
+   nthreads = 1
+   phreeqc_init_file = 'pyrite.pqi'
 /
