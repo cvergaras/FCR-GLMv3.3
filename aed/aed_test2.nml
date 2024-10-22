@@ -321,7 +321,7 @@
 !   diag_level = 10
 !/
 &aed_phreeqcrm
-   create_init_yaml = .false.
+   create_init_yaml = .true.
    yaml_init = .true. ! initialize from a YAML file
    yaml_file = 'init2.yaml'
    dbase = 'pht3d_datab.dat' !if not read by yaml
