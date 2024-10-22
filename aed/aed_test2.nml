@@ -322,7 +322,7 @@
 !/
 &aed_phreeqcrm
    create_yaml = .false.
-   yaml_file = 'AdvectBMI_f90_test_new.yaml'
+   yaml_file = 'AdvectBMI_f90_test_newxxx.yaml' ! read or create based on create_yaml
    dbase = 'phreeqc.dat'
    nthreads = 3
    phreeqc_init_file = 'all_reactants.pqi'
