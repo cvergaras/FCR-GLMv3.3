@@ -323,7 +323,7 @@
 &aed_phreeqcrm
    create_init_yaml = .true.
    yaml_init = .true. ! initialize from a YAML file
-   yaml_file = 'init2.yaml'
+   yaml_file = 'yaml_init.yaml'
    dbase = 'pht3d_datab.dat' !if not read by yaml
    nthreads = 1
    phreeqc_init_file = 'pyrite.pqi'
