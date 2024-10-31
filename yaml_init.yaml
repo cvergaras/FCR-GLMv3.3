@@ -7,11 +7,6 @@
   initial_phreeqc: true
   utility: true
   chemistry_name: pyrite.pqi
-- key: RunString
-  workers: true
-  initial_phreeqc: false
-  utility: true
-  input_string: DELETE; -all
 - key: FindComponents
 - key: InitialPhreeqc2Module
   initial_conditions1:
