@@ -1,0 +1,2300 @@
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR: PhreeqcRM failed.
+ERROR: PhreeqcRM::RunCells
+
+
+ERROR: ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+
+ERROR:                Fe_di has not converged. Total: 1.000000e-10	Calculated: 0.000000e+00	Residual: 1.000000e-10
+
+ERROR:                    S has not converged. Total: 2.000000e-10	Calculated: 0.000000e+00	Residual: 2.000000e-10
+
+ERROR:                   Mu Ionic strength has not converged. 	Residual: 0.000000e+00
+
+ERROR:                   pH Charge balance has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Oxygen Mass of oxygen has not converged. 	Residual: 0.000000e+00
+
+ERROR:               Pyrite Pure phase has not converged. 	Residual: -6.562368e+02
+
+ERROR: Numerical method failed on all combinations of convergence parameters, cell/soln/mix 15
+

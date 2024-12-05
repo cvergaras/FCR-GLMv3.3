@@ -321,10 +321,14 @@
 !   diag_level = 10
 !/
 &aed_phreeqcrm
-   create_init_yaml = .true.
-   yaml_init = .true. ! initialize from a YAML file
-   yaml_file = 'yaml_init.yaml'
-   dbase = 'pht3d_datab.dat' !if not read by yaml
+   dbase = 'pht3d_datab.dat'
    nthreads = 1
    phreeqc_init_file = 'pyrite.pqi'
+   equilibrium_phases = .true.
+   exchange = .false.
+   surface = .false.
+   gas_phase = .false.
+   ss = .false.
+   kinetics = .false.   
+   maxlayers = 20
 /

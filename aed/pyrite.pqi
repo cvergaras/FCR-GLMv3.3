@@ -1,5 +1,5 @@
 TITLE Test Pyrite
-SOLUTION 1 Pure water
+SOLUTION 1-20
         pH      7.0
         temp    25.0  
 	  pe      4.0    
@@ -8,8 +8,6 @@ SOLUTION 1 Pure water
         K                0.2
         Ca               0.6
         Cl               1.2 charge     
-EQUILIBRIUM_PHASES 1
-        Pyrite          0.0     1.0
-EQUILIBRIUM_PHASES_MODIFY 1
+EQUILIBRIUM_PHASES 1-20
         Pyrite          0.0     1.0
 END

@@ -1,7 +1,7 @@
 - key: SetComponentH2O
   tf: true
 - key: SetFilePrefix
-  prefix: test3_
+  prefix: clarena_
 - key: OpenFiles
 - key: SetPrintChemistryOn
   workers: true
@@ -9,11 +9,6 @@
   utility: true
 - key: SetRebalanceByCell
   tf: false
-- key: SetDumpFileName
-  dump_name: testing_dumping.dmp
-- key: DumpModule
-  dump_on: true
-  append: true
 - key: SetGridCellCount
   count: 20
 - key: ThreadCount
@@ -114,8 +109,18 @@
   option: 2
 - key: SetUnitsPPassemblage
   option: 1
+- key: SetUnitsExchange
+  option: 1
+- key: SetUnitsSurface
+  option: 1
+- key: SetUnitsGasPhase
+  option: 1
+- key: SetUnitsSSassemblage
+  option: 1
+- key: SetUnitsKinetics
+  option: 1
 - key: SetTimeConversion
-  conv_factor: 1.1574074074074073e-05
+  conv_factor: 0.00027777777777777778
 - key: LoadDatabase
   database: pht3d_datab.dat
 - key: RunFile
@@ -132,45 +137,45 @@
 - key: InitialPhreeqc2Module
   initial_conditions1:
     - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
     - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
-    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
     - -1
     - -1
     - -1
