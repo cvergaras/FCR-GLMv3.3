@@ -268,12 +268,7 @@ def plot_glm_results(output_folder, var):
             #     img = ax.scatter(time[t] * np.ones(len(depth)), depth, c=var1/300, cmap=cmap, s=60, marker = 's',vmin=vmin, vmax=vmax)
             # else:
             vmin = variable.min()
-            print(vmin)
             vmax = variable.max()#8.0
-            print(vmax)
-            if vmin == vmax:
-                vmin = 0
-                vmax = 1
             img = ax.scatter(time[t] * np.ones(len(depth)), depth, c=var1, cmap=cmap, s=60, marker = 's',vmin=vmin, vmax=vmax)
         ax.axhline(y=0, color='white', linestyle='-', lw=3)
         fig.colorbar(img, ax=ax, label=label)
@@ -314,7 +309,7 @@ Data_GLM = nc.Dataset(os.path.join(output_folder, "output.nc"))
 plot_glm_results(output_folder,"PHQ_EP_Calcite")
 
 #%%
-ph = Data_GLM.variables["PHQ_EP_Calcite"][:, :, 0, 0]
+ph = Data_GLM.variables["PHQ_CO_Fe_di"][:, :, 0, 0]
 ph[0]
 ph[0]
 # %%

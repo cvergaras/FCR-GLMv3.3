@@ -120,14 +120,14 @@
 - key: SetUnitsKinetics
   option: 1
 - key: SetTimeConversion
-  conv_factor: 0.00027777777777777778
+  conv_factor: 0.0002777777777777778
 - key: LoadDatabase
   database: pht3d_datab.dat
 - key: RunFile
   workers: true
   initial_phreeqc: true
   utility: true
-  chemistry_name: pyrite.pqi
+  chemistry_name: calcite.pqi
 - key: RunString
   workers: true
   initial_phreeqc: false

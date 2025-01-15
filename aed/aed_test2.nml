@@ -2,8 +2,8 @@
    models = 
    !'aed_sedflux',
    !'aed_tracer',
-   'aed_noncohesive',
-   'aed_oxygen',
+   !'aed_noncohesive',
+   !'aed_oxygen',
    !'aed_carbon',
    !'aed_silica',
    !'aed_nitrogen',
@@ -323,7 +323,7 @@
 &aed_phreeqcrm
    dbase = 'pht3d_datab.dat'
    nthreads = 1
-   phreeqc_init_file = 'pyrite.pqi'
+   phreeqc_init_file = 'calcite.pqi'
    equilibrium_phases = .true.
    exchange = .false.
    surface = .false.
@@ -331,4 +331,6 @@
    ss = .false.
    kinetics = .false.   
    maxlayers = 20
+   w_gch = -1e-6!-5e-4
+   ! num_minerals = 1
 /

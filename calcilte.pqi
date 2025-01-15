@@ -1,0 +1,12 @@
+TITLE Test Calcite
+SOLUTION 1-150
+    pH       8.0      charge    # Initial pH
+    units    mmol/L            # Specify units as mmol/L
+    Ca       500.0             # 
+    C(4)     250.0             # 
+    Na       50.0              # 
+    Cl       50.0              # 
+
+EQUILIBRIUM_PHASES 1-150
+        Calcite          0.0     0.0
+END
